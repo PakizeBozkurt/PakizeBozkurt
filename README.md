@@ -14,7 +14,7 @@ I'm a Junior Software Engineer with a passion for creating efficient and user-fr
   - ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png) Node.js
   
 - Databases: 
-  ![PostgreSQL logo](https://www.postgresql.org/media/img/about/press/elephant-header-logo.png)
+  ![PostgreSQL logo](https://www.postgresql.org/media/img/about/press/elephant-header-logo.png) PostgresSQL
   
 - Version control: ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) Git
 
