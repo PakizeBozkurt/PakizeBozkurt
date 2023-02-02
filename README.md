@@ -19,7 +19,8 @@ I'm a Junior Software Engineer with a passion for creating efficient and user-fr
 - Version control: ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) Git
 
 - Agile methodologies: 
-  - ![Scrum](https://raw.githubusercontent.com/github/explore/80688e429a7d
+ ![Agile Alliance logo](https://www.agilealliance.org/wp-content/uploads/2020/07/aa-logo.png)
+
   - Kanban
 
 - Other skills: REST APIs
