@@ -5,7 +5,7 @@ I'm a Junior Software Engineer with a passion for creating efficient and user-fr
 
 ## Skills
 - Programming languages: 
-  - [image](https://user-images.githubusercontent.com/97640517/216302233-79e3f6a9-14de-4734-a677-efa1b2423d5b.png) JavaScript
+  - ![image](https://user-images.githubusercontent.com/97640517/216302672-b93a80cc-e020-4058-b39f-156902fad88c.png)
   
 - Web development: 
   - ![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) React 
