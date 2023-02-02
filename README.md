@@ -8,15 +8,15 @@ I'm a Junior Software Engineer with a passion for creating efficient and user-fr
   - ![image](https://user-images.githubusercontent.com/97640517/216302672-b93a80cc-e020-4058-b39f-156902fad88c.png)
   
 - Web development: 
-  - ![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) React 
-  - ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) HTML 
-  - ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) CSS
-  - ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png) Node.js
+  - ![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) 
+  - ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)  
+  - ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) 
+  - ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png) 
   
 - Databases: 
-  ![PostgreSQL logo](https://www.postgresql.org/media/img/about/press/elephant-header-logo.png) PostgresSQL
+  ![image](https://user-images.githubusercontent.com/97640517/216303085-554feeaf-7d85-4853-9172-668897d393be.png)
   
-- Version control: ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) Git
+- Version control: ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) 
 
 
  ## Project Management Methodologies
