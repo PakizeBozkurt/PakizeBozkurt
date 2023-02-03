@@ -3,21 +3,22 @@
 I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. I have experience in developing web applications using 
 :javascript: :html: :css: :react: :nodejs: :telescope:
 
-## Skills
-- Programming languages: 
-  - ![image](https://user-images.githubusercontent.com/97640517/216302672-b93a80cc-e020-4058-b39f-156902fad88c.png)
-  
-- Web development: 
-  - ![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) 
-  - ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)  
-  - ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) 
-  - ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png) 
-  
-- Databases: 
-  ![image](https://user-images.githubusercontent.com/97640517/216303085-554feeaf-7d85-4853-9172-668897d393be.png)
-  
-- Version control: ![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) 
+# My Skills and Tools
 
+Here's a list of my skills and tools:
+
+| Technology | Logo |
+| --- | --- |
+| HTML | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) |
+| CSS | ![CSS](https://img.icons8.com/color/48/000000/css3.png) |
+| JavaScript | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
+| Node.js | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
+| Express.js | ![Express.js](https://img.icons8.com/color/48/000000/expressjs.png) |
+| PostgreSQL | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) |
+| Agile Methodology | ![Agile](https://img.icons8.com/color/48/000000/agile.png) |
+| Visual Studio Code | ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png) |
+| GitHub | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
+| Git | ![Git](https://img.icons8.com/color/48/000000/git.png) |
 
  ## Project Management Methodologies
 - Experienced with Agile methodologies, including Scrum and Kanban.
