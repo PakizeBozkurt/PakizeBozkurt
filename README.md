@@ -14,7 +14,7 @@ Here's a list of my skills and tools:
 | JavaScript | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
 | Node.js | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
 | Express.js  | ![Express.js](https://img.icons8.com/color/48/000000/expressjs.png)  |
-| PostgreSQL  | ![PostgreSQL]((https://user-images.githubusercontent.com/97640517/216726721-edadde22-b734-494e-bd3f-24a22ca5932c.png))  |
+| PostgreSQL  | ![image]((https://user-images.githubusercontent.com/97640517/216726721-edadde22-b734-494e-bd3f-24a22ca5932c.png))  |
 | Agile Methodology  | ![Agile](https://img.icons8.com/color/48/000000/agile.png)  |
 | Visual Studio Code  | ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)  |
 | GitHub | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
