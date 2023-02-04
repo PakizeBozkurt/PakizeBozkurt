@@ -7,7 +7,7 @@ I'm a Junior Software Engineer with a passion for creating efficient and user-fr
 
 Here's a list of my skills and tools:
 
-| Technology | Logo |
+
 | --- | --- |
 | HTML | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) |
 | CSS | ![CSS](https://img.icons8.com/color/48/000000/css3.png) |
