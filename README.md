@@ -22,7 +22,8 @@ Here's a list of my skills and tools:
 ## Education
 - Full Stack Developer course at Code Your Future Bootcamp, Birmingham, UK.
 - Master of Teacing Philosophy in Education, Gazi University, Ankara, Turkey. 
-- Bachelor of Philosophy in Education, Gazi University, Ankara, Turkey.![image](https://user-images.githubusercontent.com/97640517/216846191-40908f8a-3531-48f5-8c25-5b8bafd67de7.png)
+- Bachelor of Philosophy in Education, Gazi University, Ankara, Turkey.
+![image](https://user-images.githubusercontent.com/97640517/216846191-40908f8a-3531-48f5-8c25-5b8bafd67de7.png)
 
 ## Experience
 - State secondary school, Philosophy Teacher. Teacing and learning together. ![image](https://user-images.githubusercontent.com/97640517/216846025-913f0b82-925f-439f-a40b-91aecc386d38.png)
