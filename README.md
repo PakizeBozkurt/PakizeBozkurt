@@ -20,10 +20,11 @@ Here's a list of my skills and tools:
 ![image](https://user-images.githubusercontent.com/97640517/216845646-0531fe49-ff73-439e-b21b-a31432a5e53f.png)
 
 ## Education
+![image](https://user-images.githubusercontent.com/97640517/216846191-40908f8a-3531-48f5-8c25-5b8bafd67de7.png)
 - Full Stack Developer course at Code Your Future Bootcamp, Birmingham, UK.
 - Master of Teacing Philosophy in Education, Gazi University, Ankara, Turkey. 
 - Bachelor of Philosophy in Education, Gazi University, Ankara, Turkey.
-![image](https://user-images.githubusercontent.com/97640517/216846191-40908f8a-3531-48f5-8c25-5b8bafd67de7.png)
+
 
 ## Experience
 - State secondary school, Philosophy Teacher. Teacing and learning together. ![image](https://user-images.githubusercontent.com/97640517/216846025-913f0b82-925f-439f-a40b-91aecc386d38.png)
@@ -31,8 +32,10 @@ Here's a list of my skills and tools:
 
 
 ## Contact me
-- ![image](https://user-images.githubusercontent.com/97640517/216845701-7c498583-efba-4c3c-aa25-57ae79383fd5.png) https://www.linkedin.com/in/pakize-bozkurt-36927322b/.
-- ![image](https://user-images.githubusercontent.com/97640517/216845744-20c06227-92ac-4016-9f76-b4ba35dc9bf9.png): pakiozihak@gmail.com.
+- ![image](https://user-images.githubusercontent.com/97640517/216845701-7c498583-efba-4c3c-aa25-57ae79383fd5.png) 
+https://www.linkedin.com/in/pakize-bozkurt-36927322b/.
+- ![image](https://user-images.githubusercontent.com/97640517/216845744-20c06227-92ac-4016-9f76-b4ba35dc9bf9.png)
+pakiozihak@gmail.com.
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
