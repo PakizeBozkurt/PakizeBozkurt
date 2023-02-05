@@ -16,18 +16,18 @@ Here's a list of my skills and tools:
 ![image](https://user-images.githubusercontent.com/97640517/216845415-308c9bbc-8c55-4774-bf18-d6f3fe01c1b5.png)
 ![image](https://user-images.githubusercontent.com/97640517/216845484-3d246f6b-29ab-4c79-b3d8-fb31af67dc1d.png)
 ![image](https://user-images.githubusercontent.com/97640517/216845512-4d71371e-31cc-4b86-8edf-336bef2d00bb.png)
-
-- Other skills: REST APIs
+ REST APIs
 ![image](https://user-images.githubusercontent.com/97640517/216845646-0531fe49-ff73-439e-b21b-a31432a5e53f.png)
 
 ## Education
 - Bachelor of Philosophy in Education, Gazi University, Ankara, Turkey.
-- Master of Teacing Philosophy in Education, Gazi University, Ankara, Turkey.
+- Master of Teacing Philosophy in Education, Gazi University, Ankara, Turkey. ![image](https://user-images.githubusercontent.com/97640517/216846191-40908f8a-3531-48f5-8c25-5b8bafd67de7.png)
 - Full Stack Developer course at Code Your Future Bootcamp, Birmingham, UK.
 
 ## Experience
-- State secondary school, Philosophy Teacher. Teacing and learning together.
-- Traaine at Code Your Future. Gaining new skills.
+- State secondary school, Philosophy Teacher. Teacing and learning together. ![image](https://user-images.githubusercontent.com/97640517/216846025-913f0b82-925f-439f-a40b-91aecc386d38.png)
+- Traaine at Code Your Future. Gaining new skills. ![image](https://user-images.githubusercontent.com/97640517/216846054-594362a6-a8f9-4df7-9449-6fe507e89b7a.png)
+
 
 ## Contact me
 - ![image](https://user-images.githubusercontent.com/97640517/216845701-7c498583-efba-4c3c-aa25-57ae79383fd5.png) https://www.linkedin.com/in/pakize-bozkurt-36927322b/.
