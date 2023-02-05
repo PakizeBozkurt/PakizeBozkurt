@@ -9,7 +9,10 @@ Here's a list of my skills and tools:
 
 
 
- ![image](https://user-images.githubusercontent.com/97640517/216844237-8e0d03f1-98fa-4495-bce8-b64974006f6c.png)
+ <a href="https://www.flaticon.com/free-icon/html-5_177528" title="Iconka">
+  <img src="https://image.flaticon.com/icons/svg/1775/177528.svg" alt="HTML logo">
+</a>
+
  ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
  ![image](https://user-images.githubusercontent.com/97640517/216728511-c0d6ec67-0675-4c6f-95e7-cfac877bf5ce.png) 
