@@ -9,7 +9,7 @@ Here's a list of my skills and tools:
 
 
 
- ![image](https://user-images.githubusercontent.com/97640517/216843477-7af1729f-75f9-49ba-a464-32c61f89323c.png) 
+ ![image](https://user-images.githubusercontent.com/97640517/216844237-8e0d03f1-98fa-4495-bce8-b64974006f6c.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
  ![image](https://user-images.githubusercontent.com/97640517/216728511-c0d6ec67-0675-4c6f-95e7-cfac877bf5ce.png) 
