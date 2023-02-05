@@ -17,13 +17,18 @@ Here's a list of my skills and tools:
 ![image](https://user-images.githubusercontent.com/97640517/216726721-edadde22-b734-494e-bd3f-24a22ca5932c.png)  
 ![image](https://user-images.githubusercontent.com/97640517/216727740-bdd3d178-186d-462e-a039-877ea367a5e9.png)  
 ![image](https://user-images.githubusercontent.com/97640517/216727393-ae82d707-38b0-474b-8741-58c1d67415ff.png)  
-![GitHub](https://img.icons8.com/color/48/000000/github.png) 
-![Git](https://img.icons8.com/color/48/000000/git.png) 
+![image](https://user-images.githubusercontent.com/97640517/216845290-0a4672d8-4d9a-436b-882d-d8f3dd74ef59.png)
+![image](https://user-images.githubusercontent.com/97640517/216845322-cfcf11a8-b9af-4792-99d8-326332f0c765.png)
 
  ## Project Management Methodologies
-- Experienced with Agile methodologies, including Scrum and Kanban.
+- Experienced with Agile methodologies, including Scrum and Kanban. 
+![image](https://user-images.githubusercontent.com/97640517/216845415-308c9bbc-8c55-4774-bf18-d6f3fe01c1b5.png)
+![image](https://user-images.githubusercontent.com/97640517/216845484-3d246f6b-29ab-4c79-b3d8-fb31af67dc1d.png)
+![image](https://user-images.githubusercontent.com/97640517/216845512-4d71371e-31cc-4b86-8edf-336bef2d00bb.png)
 
 - Other skills: REST APIs
+![image](https://user-images.githubusercontent.com/97640517/216845560-d44ed428-04f5-48f8-b524-b2ed5cb78931.png)
+
 
 
 ## Education
