@@ -27,9 +27,7 @@ Here's a list of my skills and tools:
 ![image](https://user-images.githubusercontent.com/97640517/216845512-4d71371e-31cc-4b86-8edf-336bef2d00bb.png)
 
 - Other skills: REST APIs
-![image](https://user-images.githubusercontent.com/97640517/216845560-d44ed428-04f5-48f8-b524-b2ed5cb78931.png)
-
-
+![image](https://user-images.githubusercontent.com/97640517/216845646-0531fe49-ff73-439e-b21b-a31432a5e53f.png)
 
 ## Education
 - Bachelor of Philosophy in Education, Gazi University, Ankara, Turkey.
@@ -41,8 +39,8 @@ Here's a list of my skills and tools:
 - Traaine at Code Your Future. Gaining new skills.
 
 ## Contact me
-- LinkedIn: https://www.linkedin.com/in/pakize-bozkurt-36927322b/.
-- Email: pakiozihak@gmail.com.
+- ![image](https://user-images.githubusercontent.com/97640517/216845701-7c498583-efba-4c3c-aa25-57ae79383fd5.png) https://www.linkedin.com/in/pakize-bozkurt-36927322b/.
+- ![image](https://user-images.githubusercontent.com/97640517/216845744-20c06227-92ac-4016-9f76-b4ba35dc9bf9.png): pakiozihak@gmail.com.
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
