@@ -33,8 +33,8 @@ Here's a list of my skills and tools:
 
 ## Contact me
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/pakize-bozkurt-36927322b/) 👀
-- OR
-- .[Gmail](pakiozihak@gmail.com)
+- OR <img src="https://icon-library.net/images/gmail-icon-png/gmail-icon-png-21.jpg" width="30" height="30">
+[Gmail](pakiozihak@gmail.com)
 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
