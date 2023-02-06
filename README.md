@@ -33,9 +33,9 @@ Here's a list of my skills and tools:
 
 ## Contact me
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/pakize-bozkurt-36927322b/) 👀
-OR
-- ![image](https://user-images.githubusercontent.com/97640517/216845744-20c06227-92ac-4016-9f76-b4ba35dc9bf9.png)
-pakiozihak@gmail.com.
+- OR
+- .[Gmail](pakiozihak@gmail.com)
+
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
