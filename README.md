@@ -15,18 +15,21 @@ Here's a list of my skills and tools:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PakizeBozkurt" alt="PakizeBozkurt" /> </p>
 
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PakizeBozkurt/)
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=PakizeBozkurt&show_icons=true&theme=vision-friendly-dark" align='left' width="50%">
+
+
 <br><br><br><br><br><br><br><br>
 
  
 ## Contact me
+
+
 -  [Linkedin](https://www.linkedin.com/in/pakize-bozkurt-36927322b/) 👀
 -  [Gmail](pakiozihak@gmail.com) 💌
-
-## Snake eating my contribution graph! 😸
-![snake gif](https://github.com/PakizeBozkurt/PakizeBozkurt/blob/output/github-contribution-grid-snake.gif)
 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
