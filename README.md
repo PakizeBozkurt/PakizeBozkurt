@@ -13,10 +13,8 @@ Here's a list of my skills and tools:
 
  
 ## Contact me
- ![image](https://user-images.githubusercontent.com/97640517/217108258-44f48f97-e87c-445f-a0d8-90a195a48419.png)
- [Linkedin](https://www.linkedin.com/in/pakize-bozkurt-36927322b/) 👀
-- OR ![image](https://user-images.githubusercontent.com/97640517/217107224-61a55f0d-ba2c-49b4-b9db-15e9cff73023.png)
-[Gmail](pakiozihak@gmail.com)
+ ![image](https://user-images.githubusercontent.com/97640517/217108258-44f48f97-e87c-445f-a0d8-90a195a48419.png)[Linkedin](https://www.linkedin.com/in/pakize-bozkurt-36927322b/) 👀
+- OR ![image](https://user-images.githubusercontent.com/97640517/217107224-61a55f0d-ba2c-49b4-b9db-15e9cff73023.png)[Gmail](pakiozihak@gmail.com)
 
 ## Snake eating my contribution graph! 😸
 ![snake gif](https://github.com/PakizeBozkurt/PakizeBozkurt/blob/output/github-contribution-grid-snake.gif)
