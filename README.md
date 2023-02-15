@@ -17,7 +17,7 @@ Here's a list of my skills and tools:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PakizeBozkurt" alt="PakizeBozkurt" /> </p>
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PakizeBozkurt/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PakizeBozkurt)
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PakizeBozkurt&" alt="PakizeBozkurt" />
 </p>
