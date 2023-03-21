@@ -1,6 +1,7 @@
 # Hi, I'm Pakize :woman_technologist:
 
-I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. I have experience in developing web applications using 
+I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. 
+I have experience in developing web applications using 
 ⏬ ⏬ ⏬
 
 # My Skills and Tools
