@@ -27,9 +27,7 @@ Here's a list of my skills and tools:
 </p>
 
 
-<p>&nbsp;
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PakizeBozkurt&show_icons=true&locale=en" alt="PakizeBozkurt" />
-</p>
+
 
 <br>
  
