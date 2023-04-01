@@ -22,12 +22,6 @@ Here's a list of my skills and tools:
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PakizeBozkurt&" alt="PakizeBozkurt" />
 </p>
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PakizeBozkurt&show_icons=true&locale=en&layout=compact" alt="PakizeBozkurt" />
-</p>
-
-
-
 
 <br>
  
