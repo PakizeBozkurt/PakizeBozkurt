@@ -8,8 +8,8 @@ I have experience in developing web applications using
 
 Here's a list of my skills and tools:
 <br>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" />
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br> 
 
