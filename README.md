@@ -35,14 +35,13 @@ Here's a list of my skills and tools:
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="lighthouse" />
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PakizeBozkurt" alt="PakizeBozkurt" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PakizeBozkurt" alt="PakizeBozkurt" /> </p> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakize-bozkurt-36927322b/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pakiozihak@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pakiozihak@gmail.com)
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
