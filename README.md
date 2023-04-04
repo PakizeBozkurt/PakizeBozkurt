@@ -36,7 +36,6 @@ Here's a list of my skills and tools:
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PakizeBozkurt" alt="PakizeBozkurt" /> </p> 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ## Contact me
 
