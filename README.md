@@ -44,4 +44,3 @@ Here's a list of my skills and tools:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pakiozihak@gmail.com)
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
-
