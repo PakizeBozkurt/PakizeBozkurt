@@ -2,6 +2,7 @@
 
 I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. 
 - 🌱 I’m currently learning ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🔭 I’m currently working on a book app 📖 
 
 # My Skills and Tools
 
