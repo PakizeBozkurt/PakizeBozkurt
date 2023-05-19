@@ -1,8 +1,8 @@
 # Hi, I'm Pakize :woman_technologist:
 
 I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. 
-- 🌱 I’m currently learning ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- 🔭 I’m currently working on a book app 📖 
+- 🌱 I’m currently learning TDD.
+- 🔭 I’m currently working on a Lingjo app 📖 with my Harmonies Team!
 
 # My Skills and Tools
 
@@ -18,7 +18,7 @@ Here's a list of my skills and tools:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="psgl" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render" />
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" />
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootsrap" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="font-awesome" />
