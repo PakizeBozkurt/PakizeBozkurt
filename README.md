@@ -2,7 +2,7 @@
 
 I'm a Junior Software Engineer with a passion for creating efficient and user-friendly software. 
 - 🌱 I’m currently learning TDD <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-- 🔭 I’m currently working on a Lingjo app 📖 with The Harmonies Team!
+- 🔭 I’m currently working on a Langjo app 📖 with The Harmonies Team!
 
 # My Skills and Tools
 
