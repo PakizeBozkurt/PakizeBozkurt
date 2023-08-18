@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Developer with a passion for creating efficient and user-friendly software. 
 
-- 🌱 I’m currently learning AZ-900 MICROSOFT AZURE Fundementals. ☁️
+- 🌱 I’m currently learning [AZ-900 MICROSOFT AZURE Fundementals.](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ☁️
 
 - 🔭 I’m currently working on a Langjo app 📖 https://github.com/kavitappatil/LangJo with The Harmonies Team!
 
