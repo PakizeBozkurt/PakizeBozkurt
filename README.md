@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Developer with a passion for creating efficient and user-friendly software. 
 
-- 🌱 I’m currently learning TDD <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+- 🌱 I’m currently learning AZ-900 MICROSOFT AZURE Fundementals. ☁️
 
 - 🔭 I’m currently working on a Langjo app 📖 https://github.com/kavitappatil/LangJo with The Harmonies Team!
 
