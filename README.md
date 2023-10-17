@@ -7,6 +7,8 @@ I love challenges and open new adventuares!
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
 - 🔭 I’m currently working on a Langjo app 📖 https://github.com/kavitappatil/LangJo with The Harmonies Team!
+  
+- You can visit my portfolio by following this link: [Portfolio Demo](https://p-b.vercel.app/)
 
 ## My Skills and Tools
 Here's a list of my skills and tools:
