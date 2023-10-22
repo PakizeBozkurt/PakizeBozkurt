@@ -3,9 +3,9 @@
 I'm a Full Stack Software Developer with a passion for creating efficient and user-friendly software. 
 I love challenges and open new adventuares!
 
-- 🌱 I’m currently learning: ☁️
+- 🌱 I’m currently learning: Pagination and   ☁️
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  and Pagination.
+
 
 - 🔭 I’m currently working on a Langjo app 📖 [LangJo Project](https://github.com/kavitappatil/LangJo) with The Harmonies Team!
   
